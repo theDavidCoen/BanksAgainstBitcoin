@@ -1,13 +1,16 @@
 # BanksAgainstBitcoin
 ## A blacklist of banks that block movements to or from Bitcoin/Crypto related services. ##
 
-In this blacklist you can find and report banks that are blocking transactions to / from Bitcoin or Crypto related services.
+In this blacklist you can find and report banks that are blocking of limiting transactions to / from Bitcoin or Crypto related services.
 <br>If you experienced such behavior from your bank, please open a PR or an Issue.
 
 **What we need:**
 1. Name of the bank
 2. SWIFT/BIC
 3. A clear proof (an email, a pdf, a link to their policies...anything)
+
+Initially, we will collect the banks in the table below without any distinctions between total block/ban and limits.
+<br>Later we can opt out for a more specific table and add more columns for differences.
 
 Bank | Ownership | SWIFT/BIC | Proof |
  ------------ | ------------- | ------- | ------- |
