@@ -1,5 +1,5 @@
 # BanksAgainstBitcoin
-## A blacklist of banks that block movements to or from Bitcoin/Crypto related services. ##
+## A blacklist of banks that block/limit movements to or from Bitcoin/Crypto related services. ##
 
 In this blacklist you can find and report banks that are blocking of limiting transactions to / from Bitcoin or Crypto related services.
 <br>If you experienced such behavior from your bank, please open a PR or an Issue.
