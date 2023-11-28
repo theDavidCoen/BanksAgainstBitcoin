@@ -20,6 +20,8 @@ Bank | Ownership | SWIFT/BIC | Proof | Receiving Payments Limits | Sending Payme
 [Nationwide](https://www.nationwide.co.uk) | Owned by members | NAIAGB21 | [Official Statement](https://www.nationwide.co.uk/help/fraud-and-security/cryptocurrency-payment-restrictions/?et_cid=26323083&et_rid=170684709) | n.a. | :yellow_circle: BANK TRANSFER, DEBIT CARD<br>:red_circle: CREDIT CARD<br><br> Debit card purchases limited to £5,000 a day, or £100 a day if you have a FlexOne account. You can no longer use your credit card to purchase cryptocurrencies. |
 [Natwest](https://www.natwestgroup.com) | UK Government Investments | NWBKGB2LXXX | [Official Statement](https://www.natwestgroup.com/news-and-insights/news-room/press-releases/financial-capability-and-learning/2023/mar/natwest-limits-crypto-payments.html) | n.a. | £1000 daily and £5000 30-day-limit imposed on cryptocurrency exchanges. |
 [First Direct](https://www.firstdirect.com) | HSBC UK Bank plc | HBUKGB41, HBUKGB4B | [Official Statement](https://www.firstdirect.com/help/bank-accounts/payments-and-transfers/cryptocurrency/) | :green_circle: NO BAN<br><br>You can receive payments from cryptocurrency exchanges into your account. | £2,500 for a single payment and a total payment limit of £10,000 in any rolling 30-day period. |
+[Santander UK](https://www.santander.co.uk) | Santander Group | ABBYGB2LXXX | [Official Statement](https://www.santander.co.uk/personal/support/fraud-and-security/cryptocurrency)<br><br> [Media Coverage](https://www.reuters.com/business/finance/santander-block-uk-transfers-crypto-exchanges-2023-2022-11-04) | n.a. | :yellow_circle: ALLOWED WITH LIMITS<br><br> A £1k limit per transaction, not surpassing £3k in any 30-day period. |
+
 
 
 
